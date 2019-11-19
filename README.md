@@ -1,3 +1,3 @@
 # Impossible-Cricket-Quiz
 
-An Alexa skill for cricket trivia.
+An Alexa trivia skill based on cricket.
